@@ -118,6 +118,8 @@
 </br>
 
 - 성해호 : `nav` , `aside` 및 `footer` 등을 포함하는 공동 컴포넌트
+
+!["side_bar"](public/Image/side_bar.gif)
   - 공통 Nav, Side-bar, Footer UI 구현
   - Nav, Side-bar
     - main 카테고리에 해당하는 sub-category 데이터를 DB로부터 수신하여 리스트업
